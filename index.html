@@ -58,9 +58,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Webgl.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Webgl.data.br",
-        frameworkUrl: buildUrl + "/Webgl.framework.js.br",
-        codeUrl: buildUrl + "/Webgl.wasm.br",
+        dataUrl: buildUrl + "/Webgl.data.gz",
+        frameworkUrl: buildUrl + "/Webgl.framework.js.gz",
+        codeUrl: buildUrl + "/Webgl.wasm.gz",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "CribSolitairePortrait",
